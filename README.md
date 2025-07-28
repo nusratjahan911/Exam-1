@@ -25,3 +25,8 @@ Sample Input:
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/f186287b-b5fd-400f-84fe-cfc427cd4b0f)
+
+
+## Assignment-2 Output:
+
+<img width="371" height="782" alt="Ass-2" src="https://github.com/user-attachments/assets/1dcef13c-bee4-41cb-a017-c1017a358c61" />
